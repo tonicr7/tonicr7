@@ -5,4 +5,4 @@
 - 👀 I’m interested in  compartilhar projetos e trabalhos.
 - 🌱 I’m currently learning linguagens de programação inicial.
 - 🈴 Moro na cidade de Ipiranga
-- 🥇 gosto de jogar bola
+- ⚽ gosto de jogar bola
