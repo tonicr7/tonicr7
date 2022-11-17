@@ -1,0 +1,8 @@
+- # Sobre mim.
+- ##   Meu perfil.
+- :+1 Sou **Toni**
+- 🥇 Meu Gmal de contato  é toni.oliveia@escola.pr.gove.br
+- 👀 I’m interested in  compartilhar projetos e trabalhos.
+- 🌱 I’m currently learning linguagens de programação inicial.
+- 🈴 Moro na cidade de Ipiranga
+- 🥇 gosto de jogar bola
